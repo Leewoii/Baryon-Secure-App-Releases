@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "notes": "Initial public release feed metadata for Baryon Secure.",
+  "pub_date": "2026-04-13T07:04:00.6466195Z",
+  "platforms": {
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL0tic1pVZXpYVkFaU1dOTjlmRzVRN1VpRXZvRjBVaFJ3bWJhc29rVWRMZ09jaWpwYVZQM2dCMWRwK3Z0dXdRZ01sd2haQm1La082Z2JSTFlUMHBDLytPa0Mrd0pwZHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MDYzNzMzCWZpbGU6QmFyeW9uIFNlY3VyZV8wLjEuMF94NjQtc2V0dXAuZXhlClRNdWRCYUppenV6SFVObjE2U2lSN3ZUOFJ4b3RWNHh0SnVzU0p2amNOTTBPN2M0YWdZODQzQXhUUzZuSW40cVZGTit3L2d1bGVvaXEwd0c5dmhNY0RnPT0K",
+      "url": "https://github.com/Leewoii/Baryon-Secure-App-Releases/releases/latest/download/Baryon%20Secure_0.1.0_x64-setup.exe"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSL0tic1pVZXpYVkxNR3lGUmdaYXRBRnQxRnVia2IrRTBMdkxCQk1uZTNHRERuQm03YUdadjNOWTdaMXB5SmlKczBKOTl4RHVYeWV2VHRCT05QRWdrdTdjdStHS2h4VEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MDYzNzMzCWZpbGU6QmFyeW9uIFNlY3VyZV8wLjEuMF94NjRfZW4tVVMubXNpCnlOSUZSV2k1RW56Z1ZnYXhiVk1pZXU3ZStNd1lPWFdSOTVDL2xIS1dzTU9ua09VbGIvNkVad2NhZGQ0NVhDTFFBL2dUakp5T3JEcmczM3hKcXRWZkJnPT0K",
+      "url": "https://github.com/Leewoii/Baryon-Secure-App-Releases/releases/latest/download/Baryon%20Secure_0.1.0_x64_en-US.msi"
+    }
+  }
+}
